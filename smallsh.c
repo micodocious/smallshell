@@ -14,9 +14,8 @@
 #include <stdint.h>
 
 // main.c
-#include "utils.h"
 
 int main(void) {
-    printMessage();
+    printf("Hello this is a test!\n");
     return EXIT_SUCCESS;
 }
