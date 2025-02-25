@@ -18,5 +18,5 @@
 
 int main(void) {
     printMessage();
-    return 0;
+    return EXIT_SUCCESS;
 }

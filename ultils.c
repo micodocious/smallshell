@@ -3,5 +3,5 @@
 #include <stdio.h>
 
 void printMessage(void) {
-    printf("Hello from utils!\n");
+    printf("Hello this is a test!\n");
 }

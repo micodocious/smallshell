@@ -1,0 +1,20 @@
+Author          Mico Santiago
+Last updated    02/24/2025
+
+In progress...
+
+-------------------------------------------------------------------------------------------------
+The latest iteration of my junior project for smallshell. Implemented with NASA coding standards.
+See NASA C Style Guide in addition to NASA's rule for developing safety critical code.
+
+Rule #	NASA Guideline	
+1	    No recursion, goto, setjmp, longjmp	
+2	    All loops have fixed upper bounds	
+3	    No dynamic memory allocation	
+4	    Functions ≤ 60 lines	
+5	    ≥ 2 Assertions per function	
+6	    Minimize variable scope	
+7	    Validate parameters, check return values	
+8	    Limit preprocessor use	
+9	    Restrict pointer use	
+10	    Zero compiler warnings, static analysis compliance	
